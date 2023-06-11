@@ -1,6 +1,6 @@
 const Footer = () => {
     return (
-        <footer className="mt-auto my-2">
+        <footer className="my-2 text-center">
             <span className="text-red-600">❤</span>
         </footer>
     );
