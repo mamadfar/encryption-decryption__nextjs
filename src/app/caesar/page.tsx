@@ -41,7 +41,7 @@ const Caesar = () => {
                     className="bg-transparent"
                 >
                     <option value="enc" selected>
-                        Encription
+                        Encryption
                     </option>
                     <option value="dec">Decryption</option>
                 </select>

@@ -147,7 +147,7 @@ const Transposition = () => {
                     onClick={handleEncrypt}
                     disabled={!keyword || !padChar}
                 >
-                    Encription
+                    Encryption
                 </button>
                 <button
                     className={`border rounded-r-full capitalize px-5 py-2 bg-green-100 hover:bg-green-300 hover:text-white shadow-sm transition duration-100 scale-110 focus:scale-100 ${
